@@ -1,3 +1,13 @@
+---
+title: PS2
+description: 
+published: true
+date: 2023-05-14T14:11:35.364Z
+tags: 
+editor: markdown
+dateCreated: 2023-05-14T14:01:12.255Z
+---
+
 ```R
 library(tidyverse)
 library(data.table)
