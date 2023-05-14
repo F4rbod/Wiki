@@ -2,7 +2,7 @@
 title: R Tutorial
 description: 
 published: true
-date: 2023-05-14T00:43:13.319Z
+date: 2023-05-14T00:55:52.028Z
 tags: 
 editor: markdown
 dateCreated: 2023-05-14T00:43:13.319Z
