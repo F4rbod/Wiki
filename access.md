@@ -1,3 +1,13 @@
+---
+title: access
+description: 
+published: true
+date: 2023-05-14T02:12:25.473Z
+tags: 
+editor: markdown
+dateCreated: 2023-05-14T02:09:56.634Z
+---
+
 # [Guide: Accessing and Working with Medicare claims data on Open OnDemand in RStudio](https://app.tango.us/app/workflow/e84730bf-37ed-41c2-8778-31fbc762e7e5?utm_source=markdown&utm_medium=markdown&utm_campaign=workflow%20export%20links)
 
 Welcome. To access the Medicare Claims and other datasets available from the lab, you first need to get authorization to access the Discovery Cluster. Discovery Cluster is a high-speed computational cluster that provides us with computational resources for analysis that is not possible on a personal computer.
@@ -35,9 +45,7 @@ __Created By:__ Farbod
 
 
 
-### 1. [Once you are authorized to access the cluster:
-
-Go to ood.discovery.neu.edu](https://ood.discovery.neu.edu)
+### 1. [Once you are authorized to access the cluster: Go to ood.discovery.neu.edu](https://ood.discovery.neu.edu)
 
 
 ### 2. Type your Discovery cluster username and password. These are generally your Northeastern credentia
